@@ -9,9 +9,7 @@ This package is a quick way to monkeypatch the bug, with the fix mentioned in th
 As soon as [issue #106](https://github.com/Workiva/karma-jspm/issues/106) is fixed, this package will be deprecated. Use it with caution.
 
 ## Installation
-For ease of usage it is recommended to install this package globally.
-
-`npm install -g karma-jspm-monkeypatch`
+Clone this repo and then link it using `npm link`.
 
 ## Usage
 `[project-dir/] $ karma-jspm-monkeypatch [--prepend]`
