@@ -1,0 +1,25 @@
+{
+  "name": "karma-jspm-monkeypatch",
+  "version": "0.0.0",
+  "description": "Fix a bug in karma-jspm. See readme for info!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmps/karma-jspm-monkeypatch.git"
+  },
+  "keywords": [
+    "karma-jspm"
+  ],
+  "author": "Hampus Persson <h@hmps.se> (http://hmps.se/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hmps/karma-jspm-monkeypatch/issues"
+  },
+  "homepage": "https://github.com/hmps/karma-jspm-monkeypatch#readme",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
