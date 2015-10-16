@@ -1,6 +1,6 @@
 {
   "name": "@hmps/karma-jspm-monkeypatch",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Fix a bug in karma-jspm. See readme for info!",
   "main": "index.js",
   "dependencies": {
